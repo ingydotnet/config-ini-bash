@@ -1,0 +1,14 @@
+[pkg]
+name                = config-ini
+author              = Ingy döt Net <ingy@bpan.org>
+copyright-holder    = Ingy döt Net
+copyright-year      = 2013
+license             = MIT
+abstract            = Ini File Read/Write
+source-url          = git@github.com:bash-org/config-ini.git
+home-url            = http://github.com/bash-org/config-ini#readme
+
+[bpan]
+version             = 0.0.1
+owner               = ingydotnet
+requires-bash       = > 3.2
