@@ -1,7 +1,7 @@
 Config::Ini(1) - Ini File Read/Write
 ====================================
 
-[![Build Status](https://travis-ci.org/ingydotnet/config-ini.png?branch=master)](https://travis-ci.org/ingydotnet/config-ini)
+[![Build Status](https://travis-ci.org/ingydotnet/config-ini-bash.png?branch=master)](https://travis-ci.org/ingydotnet/config-ini-bash)
 
 ## Synopsis
 
